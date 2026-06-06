@@ -10,6 +10,7 @@ Estudante de Ciências da Computação pela UNESP com foco em Deep Learning, Gam
 
 ## 🛠️ Minha Stack Principal
 Aqui estão as tecnologias com as quais trabalho diariamente e tenho maior foco profissional:
+
 **Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,7 +37,6 @@ Aqui estão as tecnologias com as quais trabalho diariamente e tenho maior foco 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ## 💡 Open To Work
 Tenho grande interesse em atuar em empresas como Desenvolvedor de Softwares no geral, Analista de Dados, IA e Engenheiro de Software.  
